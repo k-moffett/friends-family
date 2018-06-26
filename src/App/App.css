@@ -1,0 +1,11 @@
+h1 {
+  text-align: left;
+}
+
+table {
+  text-align: left;
+}
+
+.noFamily {
+  background: rgba(255, 0, 0, 0.616);
+}
